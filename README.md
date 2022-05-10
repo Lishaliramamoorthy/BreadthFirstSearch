@@ -41,7 +41,7 @@ from itertools import combinations
 
 ```python
 # Experiment done by
-# Student name : Prasannakumar M
+# Student name : Lishali R
 ```
 ```python
     def __init__(self, initial=None, goal=None, **kwds): 
