@@ -25,8 +25,9 @@ End of program.
 
 
 ## ROUTE MAP
-![Screenshot (281)](https://user-images.githubusercontent.com/75235090/166149090-3f662e7a-3a74-4c38-a02e-b5370d6f3992.png)
 
+
+![ai](https://user-images.githubusercontent.com/75237886/167791112-f5c8a85b-2f7f-4c2c-8137-cbaebedac14d.png)
 
 ## PROGRAM
 ```python
