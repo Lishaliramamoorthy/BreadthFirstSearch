@@ -1,4 +1,6 @@
-# Breadth First Search
+## EXP NO:02
+## DATE :28.04.22   
+#  <p align="center">Breadth First Search
 ## AIM
 
 To develop an algorithm to find the route from the source to the destination point using breadth-first search.
@@ -41,8 +43,9 @@ from itertools import combinations
 ```
 
 ```python
-# Experiment done by
-# Student name : Lishali R
+
+# Developed by : Lishali R
+# Register No  : 212220230028
 ```
 ```python
     def __init__(self, initial=None, goal=None, **kwds): 
@@ -202,7 +205,8 @@ print("Route:{0}".format(path_states(goal_state_path_4)))
 ```
 
 ## OUTPUT:
-![Screenshot (282)](https://user-images.githubusercontent.com/75235090/166150334-7e029f46-272d-494c-a2d1-9d6af57876e0.png)
+
+![exp2 ai](https://user-images.githubusercontent.com/75237886/175799085-ce200e55-db97-43a5-93bb-91ce807be908.png)
 
 
 
